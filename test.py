@@ -1,2 +1,2 @@
-print("hii
+print("hii");
 print("Helowoooo t3est");
